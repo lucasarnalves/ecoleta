@@ -10,6 +10,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/skyzenho/ecoleta">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Skyzenho/ecoleta">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/skyzenho/ecoleta">
+  <img alt="GitHub" src="https://img.shields.io/github/license/skyzenho/ecoleta">
 </h4>
 
 
